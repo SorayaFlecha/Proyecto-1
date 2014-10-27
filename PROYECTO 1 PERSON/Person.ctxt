@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=edadQueTiene
+comment0.target=Person(int)
+comment0.text=\r\n\ creamos\ el\ constructor\r\n
+comment1.params=
+comment1.target=int\ getEdad()
+comment1.text=\r\nCreamos\ el\ metodo\ para\ invocar\ la\ edad\ que\ tiene\ cada\ personacrada.\ \r\n
+numComments=2
